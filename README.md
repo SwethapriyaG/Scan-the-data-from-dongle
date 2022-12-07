@@ -1,1 +1,1 @@
-# Scan-the-data-from-dongle
+# Scan-the-data-from-dongle with python code
